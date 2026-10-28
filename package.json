@@ -57,7 +57,7 @@
     "shx": "^0.3.4"
   },
   "overrides": {
-    "dompurify": "^3.4.16",
+    "dompurify": "^3.4.17",
     "vite": "^7.3.6",
     "esbuild": ">=0.28.1",
     "shell-quote": "^1.12.0",
